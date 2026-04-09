@@ -62,6 +62,9 @@ cd C:\Users\jorge\OneDrive\Documents\Tetherhand
 py -3.11 -m venv venv_aero
 #can create your own virtual env name (venv_aero)
 venv_aero\Scripts\activate
+#important!!! when making the virtual env make sure you are outside the project folder for
+#ex cd C:\Users\jorge\OneDrive\Documents\Tetherhand\aero_teleop_webcam <- project folder,
+#must be cd C:\Users\jorge\OneDrive\Documents\Tetherhand to succesfully create a venv.
 ```
 
 ---
